@@ -1,0 +1,21 @@
+# Set default behavior to automatically normalize line endings
+# for all text files to LF (recommended for cross-platform consistency).
+* text=auto
+
+# Explicitly declare text files so they are always normalized
+*.R text
+*.md text
+*.txt text
+*.json text
+*.csv text
+*.yml text
+*.yaml text
+*.sh text
+
+# Declare binary files that should not be touched
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.RData binary
+*.rds binary
