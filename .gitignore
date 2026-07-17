@@ -1,0 +1,36 @@
+# R-specific files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Dependency management
+packrat/
+renv/
+.Rprofile
+
+# Python-related
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Editor/IDE settings
+.vscode/
+.idea/
+.settings/
+
+# Build and log files
+*.log
+*.out
+*.aux
+*.synctex.gz
+dist/
+build/
