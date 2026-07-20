@@ -20,7 +20,7 @@ PredictR is designed as an open-source framework for building, training, evaluat
 
 3.  **Model Evaluation:**
     *   Built-in support for standard evaluation metrics (classification accuracy, RMSE, etc.).
-    *   Extensible framework to allow researchers to define custom validation criteria.
+    *   Extensible framework to allow researchers to define custom validation criteria..
 
 4.  **Cross-Validation & Utilities:**
     *   Tools for robust model validation.
