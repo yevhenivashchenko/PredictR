@@ -16,7 +16,7 @@ PredictR is designed as an open-source framework for building, training, evaluat
 
 2.  **Model Training Pipeline:**
     *   A simple interface to train models, supporting both built-in and custom algorithms.
-    *   Focus on an easy-to-use API for model initialization and fitting.
+    *   Focus on an easy-to-use API for model initialization and fitting..
 
 3.  **Model Evaluation:**
     *   Built-in support for standard evaluation metrics (classification accuracy, RMSE, etc.).
