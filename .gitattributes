@@ -1,5 +1,5 @@
 # Set default behavior to automatically normalize line endings
-# for all text files to LF (recommended for cross-platform consistency)................
+# for all text files to LF (recommended for cross-platform consistency).................
 * text=auto
 
 # Explicitly declare text files so they are always normalized
