@@ -1,6 +1,6 @@
 # PredictR Architecturee
 
-PredictR is designed as an open-source framework for building, training, evaluating, and deploying predictive models in R. Its architecture prioritizes modularity, extensibility, and ease of use, making it suitable for researchers, students, and developers........................................
+PredictR is designed as an open-source framework for building, training, evaluating, and deploying predictive models in R. Its architecture prioritizes modularity, extensibility, and ease of use, making it suitable for researchers, students, and developers.........................................
 
 ## Design Philosophy
 
